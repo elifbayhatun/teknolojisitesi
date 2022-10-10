@@ -1,0 +1,41 @@
+.Teklif{
+  height: 60px;
+
+
+}
+.tirnak{
+  color: rgba(132, 0, 255, 0.863);
+  font-size: 30px;
+  font-weight: bold;
+}
+.imza{
+  font-size: 16px;
+  
+}
+
+.Hizmetlerimiz{
+  background-color: rgba(132, 0, 255, 0.863);
+  
+
+}
+
+
+.yazı{
+ font-size: 30px;
+ position: absolute;
+right: 580px;
+
+}
+.ifade{
+  font-weight: bold;
+  
+}
+.ifade1{
+  font-weight: bold;
+}
+.ifade2{
+  font-weight: bold;
+}
+.ifade3{
+  font-weight: bold;
+}
